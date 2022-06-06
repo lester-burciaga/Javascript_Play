@@ -10,7 +10,7 @@ On this app a card will display a gradient animation in some specific sections t
 
 [Random Picker](https://github.com/lester-burciaga/Javascript_Projects/tree/master/random-picker)
 
-A cool random choice picker where you can enter multiple options and then run a random process that will select one of for you.
+A cool random choice picker where you can enter multiple options and then run a random process that will select one for you.
 
 [User Filter](https://github.com/lester-burciaga/Javascript_Projects/tree/master/user-filter)
 
