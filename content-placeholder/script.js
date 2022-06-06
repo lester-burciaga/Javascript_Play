@@ -10,6 +10,7 @@ const animated_bgs_texts = document.querySelectorAll('.animated-bg-text');
 
 setTimeout(getData, 2200);
 
+// This will set the data in the html tags and remove the gradient animation
 function getData() {
   header.innerHTML = '<img src="./assets/laptop.jpg" alt="Work station" />';
   title.innerHTML = 'Lorem ipsum dolor asdas';

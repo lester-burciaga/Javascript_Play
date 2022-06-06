@@ -7,6 +7,7 @@ const slidesLength = slideRight.querySelectorAll('div').length;
 
 let activeSlideIndex = 0;
 
+// This will set/move the left section up based on the total right slides
 slideLeft.style.top = `-${(slidesLength - 1) * 100}vh`;
 
 upButton.addEventListener('click', () => changeSlide('up'));

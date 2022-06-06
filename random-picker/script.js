@@ -15,6 +15,7 @@ textarea.addEventListener('keyup', (e) => {
   }
 });
 
+// Create the elements with the options entered
 function createTags(input) {
   const tags = input
     .split(',')
@@ -31,6 +32,7 @@ function createTags(input) {
   });
 }
 
+// This will switch and animate every tag until one is randomly selected
 function randomSelector() {
   const times = 30;
 
