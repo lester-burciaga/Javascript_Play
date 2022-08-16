@@ -24,23 +24,13 @@ In this project a login form page have inputs with a wave animation effect on th
 
 A cool random choice picker where you can enter multiple options and then run a random process that will select one of for you.
 
-[Rotation Nav Menu](https://github.com/lester-burciaga/Javascript_Projects/tree/master/rotation-navigation-project)
-
-This is an animated navigation that rotates the whole content to display the website sections.
-
-[Scroll Animation](https://github.com/lester-burciaga/Javascript_Projects/tree/master/scroll-animation-project)
-
-A vertical scroll animation where elements come in alternatively from left and right of the screen.
-
 [User Filter](https://github.com/lester-burciaga/Javascript_Projects/tree/master/user-filter)
 
-This app will fetch some users from [RANDOM USER GENERATOR](https://randomuser.me/) a free, open-source API for generating random user data and then you can filter by user name or location.
+This app will fetch some users from [Random User Generator](https://randomuser.me/) a free, open-source API for generating random user data and then you can filter by user name or location.
 
 [Vertical Slider Image](https://github.com/lester-burciaga/Javascript_Projects/tree/master/vertical-slider)
 
 A vertical displaying image section with a brief title for each image with controls to switch beetwen them.
-
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
